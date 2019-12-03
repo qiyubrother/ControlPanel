@@ -309,7 +309,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1085, 520);
+            this.ClientSize = new System.Drawing.Size(223, 520);
             this.Controls.Add(this.btnWindowsFunction);
             this.Controls.Add(this.btnRemoteDesktop);
             this.Controls.Add(this.btnSystemInfo);
