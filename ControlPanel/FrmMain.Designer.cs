@@ -197,7 +197,7 @@
             // 
             // btnGroupStrategy
             // 
-            this.btnGroupStrategy.Location = new System.Drawing.Point(114, 246);
+            this.btnGroupStrategy.Location = new System.Drawing.Point(114, 245);
             this.btnGroupStrategy.Name = "btnGroupStrategy";
             this.btnGroupStrategy.Size = new System.Drawing.Size(94, 23);
             this.btnGroupStrategy.TabIndex = 13;
@@ -207,7 +207,7 @@
             // 
             // btnSafety
             // 
-            this.btnSafety.Location = new System.Drawing.Point(114, 276);
+            this.btnSafety.Location = new System.Drawing.Point(114, 275);
             this.btnSafety.Name = "btnSafety";
             this.btnSafety.Size = new System.Drawing.Size(94, 23);
             this.btnSafety.TabIndex = 14;
@@ -217,7 +217,7 @@
             // 
             // btnGroupService
             // 
-            this.btnGroupService.Location = new System.Drawing.Point(114, 306);
+            this.btnGroupService.Location = new System.Drawing.Point(114, 305);
             this.btnGroupService.Name = "btnGroupService";
             this.btnGroupService.Size = new System.Drawing.Size(94, 23);
             this.btnGroupService.TabIndex = 15;
@@ -227,7 +227,7 @@
             // 
             // btnDccw
             // 
-            this.btnDccw.Location = new System.Drawing.Point(114, 336);
+            this.btnDccw.Location = new System.Drawing.Point(114, 335);
             this.btnDccw.Name = "btnDccw";
             this.btnDccw.Size = new System.Drawing.Size(94, 23);
             this.btnDccw.TabIndex = 16;
@@ -237,7 +237,7 @@
             // 
             // btnDirectX
             // 
-            this.btnDirectX.Location = new System.Drawing.Point(114, 43);
+            this.btnDirectX.Location = new System.Drawing.Point(114, 42);
             this.btnDirectX.Name = "btnDirectX";
             this.btnDirectX.Size = new System.Drawing.Size(95, 23);
             this.btnDirectX.TabIndex = 17;
@@ -247,7 +247,7 @@
             // 
             // btnEventvwr
             // 
-            this.btnEventvwr.Location = new System.Drawing.Point(114, 73);
+            this.btnEventvwr.Location = new System.Drawing.Point(114, 71);
             this.btnEventvwr.Name = "btnEventvwr";
             this.btnEventvwr.Size = new System.Drawing.Size(95, 23);
             this.btnEventvwr.TabIndex = 18;
@@ -257,7 +257,7 @@
             // 
             // btnInternetAttribute
             // 
-            this.btnInternetAttribute.Location = new System.Drawing.Point(114, 104);
+            this.btnInternetAttribute.Location = new System.Drawing.Point(114, 100);
             this.btnInternetAttribute.Name = "btnInternetAttribute";
             this.btnInternetAttribute.Size = new System.Drawing.Size(97, 23);
             this.btnInternetAttribute.TabIndex = 19;
@@ -267,7 +267,7 @@
             // 
             // btnUserGroup
             // 
-            this.btnUserGroup.Location = new System.Drawing.Point(114, 133);
+            this.btnUserGroup.Location = new System.Drawing.Point(114, 129);
             this.btnUserGroup.Name = "btnUserGroup";
             this.btnUserGroup.Size = new System.Drawing.Size(96, 23);
             this.btnUserGroup.TabIndex = 20;
@@ -297,7 +297,7 @@
             // 
             // btnWindowsFunction
             // 
-            this.btnWindowsFunction.Location = new System.Drawing.Point(114, 217);
+            this.btnWindowsFunction.Location = new System.Drawing.Point(114, 216);
             this.btnWindowsFunction.Name = "btnWindowsFunction";
             this.btnWindowsFunction.Size = new System.Drawing.Size(95, 23);
             this.btnWindowsFunction.TabIndex = 23;
