@@ -167,7 +167,7 @@
             // 
             // btnDiskClearn
             // 
-            this.btnDiskClearn.Location = new System.Drawing.Point(13, 483);
+            this.btnDiskClearn.Location = new System.Drawing.Point(13, 364);
             this.btnDiskClearn.Name = "btnDiskClearn";
             this.btnDiskClearn.Size = new System.Drawing.Size(95, 23);
             this.btnDiskClearn.TabIndex = 10;
@@ -197,7 +197,7 @@
             // 
             // btnGroupStrategy
             // 
-            this.btnGroupStrategy.Location = new System.Drawing.Point(13, 364);
+            this.btnGroupStrategy.Location = new System.Drawing.Point(114, 246);
             this.btnGroupStrategy.Name = "btnGroupStrategy";
             this.btnGroupStrategy.Size = new System.Drawing.Size(94, 23);
             this.btnGroupStrategy.TabIndex = 13;
@@ -207,7 +207,7 @@
             // 
             // btnSafety
             // 
-            this.btnSafety.Location = new System.Drawing.Point(13, 394);
+            this.btnSafety.Location = new System.Drawing.Point(114, 276);
             this.btnSafety.Name = "btnSafety";
             this.btnSafety.Size = new System.Drawing.Size(94, 23);
             this.btnSafety.TabIndex = 14;
@@ -217,7 +217,7 @@
             // 
             // btnGroupService
             // 
-            this.btnGroupService.Location = new System.Drawing.Point(13, 424);
+            this.btnGroupService.Location = new System.Drawing.Point(114, 306);
             this.btnGroupService.Name = "btnGroupService";
             this.btnGroupService.Size = new System.Drawing.Size(94, 23);
             this.btnGroupService.TabIndex = 15;
@@ -227,7 +227,7 @@
             // 
             // btnDccw
             // 
-            this.btnDccw.Location = new System.Drawing.Point(13, 454);
+            this.btnDccw.Location = new System.Drawing.Point(114, 336);
             this.btnDccw.Name = "btnDccw";
             this.btnDccw.Size = new System.Drawing.Size(94, 23);
             this.btnDccw.TabIndex = 16;
@@ -309,7 +309,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(223, 520);
+            this.ClientSize = new System.Drawing.Size(223, 400);
             this.Controls.Add(this.btnWindowsFunction);
             this.Controls.Add(this.btnRemoteDesktop);
             this.Controls.Add(this.btnSystemInfo);
